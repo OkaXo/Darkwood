@@ -1,5 +1,5 @@
 # Darkwood French Patch
- V1.2 FRENCH
+ V1.2 Patch Français
 
   *Traduction Française en cours de finalisation...
 
