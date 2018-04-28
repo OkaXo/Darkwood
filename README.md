@@ -1,4 +1,4 @@
-# Darkwood French Patch
+# Darkwood French Patch - STEAM Version
  V1.2 Patch Français
 
   *Traduction Française en cours de finalisation...
